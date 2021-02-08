@@ -1,3 +1,4 @@
+//I am adding a comment here
 var myParticles = [];
 
 function setup() {
